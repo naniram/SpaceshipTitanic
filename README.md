@@ -1,0 +1,2 @@
+# SpaceshipTitanic
+Binary classification
